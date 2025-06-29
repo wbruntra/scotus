@@ -1,8 +1,29 @@
 @import "bootstrap/scss/bootstrap";
 
+// Font definitions
+:root {
+  --font-heading: 'Lora', serif;
+  --font-body: 'Nunito Sans', sans-serif;
+}
+
 body {
   background-color: #1a1a1a;
   color: #f0f0f0;
+  font-family: var(--font-body);
+  font-weight: 400;
+}
+
+// Apply Playfair Display to all headings
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+}
+
+// Ensure body text uses Source Sans Pro
+p, div, span, a, button, input, textarea, select,
+.btn, .form-control, .form-label, .form-text {
+  font-family: var(--font-body);
 }
 
 #root .container {
