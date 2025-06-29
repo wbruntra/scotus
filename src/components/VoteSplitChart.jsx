@@ -59,10 +59,7 @@ const chartOptions = {
   responsive: true,
   plugins: {
     legend: {
-      position: 'top',
-      labels: {
-        color: '#f0f0f0',
-      },
+      display: false,
     },
     title: {
       display: true,

@@ -1,9 +1,14 @@
+// Custom Bootstrap variable overrides
+$primary: #dc2626; // Deep red that works well with dark themes
+$primary-rgb: 220, 38, 38;
+
 @import "bootstrap/scss/bootstrap";
 
 // Font definitions
 :root {
   --font-heading: 'Lora', serif;
   --font-body: 'Nunito Sans', sans-serif;
+  --bs-primary: #{$primary}; // Make the custom primary available as CSS variable
 }
 
 body {
@@ -13,14 +18,14 @@ body {
   font-weight: 400;
 }
 
-// Apply Playfair Display to all headings
+// Apply Lora to all headings
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: var(--font-heading);
   font-weight: 600;
 }
 
-// Ensure body text uses Source Sans Pro
+// Ensure body text uses Nunito Sans
 p, div, span, a, button, input, textarea, select,
 .btn, .form-control, .form-label, .form-text {
   font-family: var(--font-body);
@@ -32,4 +37,16 @@ p, div, span, a, button, input, textarea, select,
   border-radius: 0.5rem;
   margin-top: 2rem;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+// Make the exclude unanimous checkbox text more prominent
+.case-explorer .form-check-label {
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+
+// Make the "Select Justices" label more prominent
+.case-explorer .form-label {
+  font-size: 1.1rem;
+  font-weight: 600;
 }
