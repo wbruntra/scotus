@@ -1,0 +1,51 @@
+.agreement-matrix table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.agreement-matrix th, .agreement-matrix td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.agreement-matrix th {
+  background-color: #f2f2f2;
+}
+
+.agreement-matrix .justice-name {
+  text-align: left;
+  font-weight: bold;
+}
+
+.agreement-matrix .cell-wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.agreement-matrix .tooltip {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.agreement-matrix .cell-wrapper:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.light-text {
+  color: white;
+}

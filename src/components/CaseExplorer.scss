@@ -1,0 +1,27 @@
+.case-explorer .justices-selection {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.case-explorer .list-group-item {
+  h5 {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+}
+
+.case-explorer .vote-groups {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-top: 1px solid #eee;
+  border-radius: 0 0 8px 8px; // Rounded bottom corners
+
+  p {
+    font-size: 0.9rem;
+  }
+}
