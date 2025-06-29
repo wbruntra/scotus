@@ -39,10 +39,15 @@ const chartOptions = {
   plugins: {
     legend: {
       position: 'top',
+      labels: {
+        color: '#f0f0f0',
+      },
     },
     title: {
       display: true,
       text: 'Breakdown of Decision Types',
+      color: '#f0f0f0',
+      font: { size: 18 },
     },
   },
 };

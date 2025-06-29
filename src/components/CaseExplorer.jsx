@@ -14,7 +14,7 @@ const allJustices = [
   'Jackson',
 ];
 
-const validCases = scData.filter(d => d.caseTitle && d.majorityJustices && d.dissentingJustices);
+const validCases = scData.filter(d => d.caseTitle && d.justicesFor && d.dissentingJustices);
 
 function CaseExplorer() {
   const [voteType, setVoteType] = useState('all'); // 'all', 'majority', 'dissent'
@@ -32,14 +32,14 @@ function CaseExplorer() {
     if (selectedJustices.length === 0) return false;
 
     const targetGroup = 
-      voteType === 'majority' ? c.majorityJustices :
+      voteType === 'majority' ? c.justicesFor :
       voteType === 'dissent' ? c.dissentingJustices :
       null;
 
     if (targetGroup) {
       return selectedJustices.every(j => targetGroup.includes(j));
     } else { // 'all'
-      const inMajority = selectedJustices.every(j => c.majorityJustices.includes(j));
+      const inMajority = selectedJustices.every(j => c.justicesFor.includes(j));
       const inDissent = selectedJustices.every(j => c.dissentingJustices.includes(j));
       return inMajority || inDissent;
     }
@@ -48,33 +48,66 @@ function CaseExplorer() {
   return (
     <div className="case-explorer">
       <h2 className="mb-4">Case Explorer</h2>
-      <div className="row mb-4">
-        <div className="col-md-4">
-          <label htmlFor="vote-type" className="form-label">Vote Type</label>
-          <select id="vote-type" className="form-select" value={voteType} onChange={e => setVoteType(e.target.value)}>
-            <option value="all">All</option>
-            <option value="majority">Majority</option>
-            <option value="dissent">Dissent</option>
-          </select>
+      <div className="mb-4">
+        <div className="mb-3">
+          <label className="form-label me-3">Vote Type</label>
+          <div className="vote-type-selection">
+            <button
+              type="button"
+              className={`vote-type-pill ${voteType === 'all' ? 'selected' : ''}`}
+              onClick={() => setVoteType('all')}
+            >
+              All
+            </button>
+            <button
+              type="button"
+              className={`vote-type-pill ${voteType === 'majority' ? 'selected' : ''}`}
+              onClick={() => setVoteType('majority')}
+            >
+              Majority
+            </button>
+            <button
+              type="button"
+              className={`vote-type-pill ${voteType === 'dissent' ? 'selected' : ''}`}
+              onClick={() => setVoteType('dissent')}
+            >
+              Dissent
+            </button>
+          </div>
         </div>
-        <div className="col-md-8">
-          <label className="form-label">Select Justices</label>
-          <p className="form-text text-muted small">
-            Select one or more justices to find cases where they voted together.
+        <div>
+          <div className="d-flex justify-content-between align-items-center mb-2">
+            <label className="form-label mb-0">Select Justices</label>
+            <div className="quick-actions">
+              <button 
+                type="button" 
+                className="btn btn-sm btn-outline-secondary me-2"
+                onClick={() => setSelectedJustices(allJustices)}
+              >
+                Select All
+              </button>
+              <button 
+                type="button" 
+                className="btn btn-sm btn-outline-secondary"
+                onClick={() => setSelectedJustices([])}
+              >
+                Clear All
+              </button>
+            </div>
+          </div>
+          <p className="form-text text-muted small mb-3">
+            Click justices to find cases where they voted together.
           </p>
           <div className="justices-selection">
             {allJustices.map(justice => (
-              <div key={justice} className="form-check form-check-inline">
-                <input 
-                  className="form-check-input" 
-                  type="checkbox" 
-                  id={`justice-${justice}`} 
-                  value={justice} 
-                  checked={selectedJustices.includes(justice)}
-                  onChange={() => handleJusticeToggle(justice)}
-                />
-                <label className="form-check-label" htmlFor={`justice-${justice}`}>{justice}</label>
-              </div>
+              <button
+                key={justice}
+                type="button"
+                className={`justice-pill ${selectedJustices.includes(justice) ? 'selected' : ''}`}
+                onClick={() => handleJusticeToggle(justice)}
+              >
+                {justice}
+              </button>
             ))}
           </div>
         </div>
@@ -90,13 +123,14 @@ function CaseExplorer() {
             <div className="d-flex justify-content-between align-items-center mb-2">
               <small className="text-muted">Date: {c.date}</small>
               {c.linkUrl && 
-                <a href={c.linkUrl} target="_blank" rel="noopener noreferrer" className="btn btn-sm btn-outline-primary">
-                  Full Opinion (PDF)
+                <a href={c.linkUrl} target="_blank" rel="noopener noreferrer" className="pdf-link">
+                  <span className="pdf-icon">📄</span>
+                  Full Opinion
                 </a>
               }
             </div>
             <div className="vote-groups">
-              <p className="mb-1"><strong>Majority:</strong> {c.majorityJustices.join(', ') || 'None'}</p>
+              <p className="mb-1"><strong>Justices For:</strong> {c.justicesFor.join(', ') || 'None'}</p>
               {c.concurringJustices && c.concurringJustices.length > 0 && (
                 <p className="mb-1"><strong>Concurring:</strong> {c.concurringJustices.join(', ')}</p>
               )}

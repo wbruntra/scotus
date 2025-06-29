@@ -45,7 +45,12 @@ const chartData = {
     {
       label: 'Number of Cases',
       data: sortedSplits.map(item => item[1]),
-      backgroundColor: 'rgba(54, 162, 235, 0.6)',
+      backgroundColor: [
+        '#4e79a7', '#f28e2c', '#e15759', '#76b7b2', '#59a14f',
+        '#edc949', '#af7aa1', '#ff9da7', '#9c755f', '#bab0ab'
+      ],
+      borderColor: '#1a1a1a',
+      borderWidth: 2,
     },
   ],
 };
@@ -55,14 +60,20 @@ const chartOptions = {
   plugins: {
     legend: {
       position: 'top',
+      labels: {
+        color: '#f0f0f0',
+      },
     },
     title: {
       display: true,
       text: 'Distribution of Vote Splits',
+      color: '#f0f0f0',
+      font: { size: 18 },
     },
     datalabels: {
       anchor: 'end',
       align: 'top',
+      color: '#f0f0f0',
       formatter: (value, context) => {
         const percentage = ((value / totalCases) * 100).toFixed(1) + '%';
         return percentage;
@@ -71,6 +82,16 @@ const chartOptions = {
         weight: 'bold'
       }
     }
+  },
+  scales: {
+    x: {
+      ticks: { color: '#f0f0f0' },
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+    },
+    y: {
+      ticks: { color: '#f0f0f0' },
+      grid: { color: 'rgba(255, 255, 255, 0.1)' },
+    },
   },
 };
 

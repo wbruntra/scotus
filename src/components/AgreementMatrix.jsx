@@ -42,10 +42,18 @@ const agreementData = allJustices.map(justice1 => {
 });
 
 const getColorForPercentage = (percentage) => {
-  const hue = 240; // Blue
-  const saturation = 85;
-  const lightness = 100 - (percentage * 70); // from 100% (white) to 30% (dark blue)
+  const hue = 210; // Blue
+  const saturation = 90;
+  const lightness = 15 + (percentage * 45); // Varies from dark (15%) to bright (60%)
   return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+};
+
+const getJusticeInitial = (justice) => {
+  // Special case for Kavanaugh to avoid confusion with Kagan
+  if (justice === 'Kavanaugh') {
+    return 'KV';
+  }
+  return justice.slice(0, 1);
 };
 
 function AgreementMatrix() {
@@ -57,7 +65,7 @@ function AgreementMatrix() {
         <thead>
           <tr>
             <th></th>
-            {allJustices.map(justice => <th key={justice}>{justice.slice(0,1)}</th>)}
+            {allJustices.map(justice => <th key={justice}>{getJusticeInitial(justice)}</th>)}
           </tr>
         </thead>
         <tbody>
@@ -68,7 +76,7 @@ function AgreementMatrix() {
                 <td 
                   key={cell.justice} 
                   style={{ backgroundColor: getColorForPercentage(cell.agreement) }}
-                  className={`cell-wrapper ${cell.agreement > 0.5 ? 'light-text' : ''}`}
+                  className="cell-wrapper"
                 >
                   <div className="tooltip">
                     {row.justice} & {cell.justice}:<br />

@@ -1,1 +1,14 @@
 @import "bootstrap/scss/bootstrap";
+
+body {
+  background-color: #1a1a1a;
+  color: #f0f0f0;
+}
+
+#root .container {
+  background-color: #242424;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  margin-top: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}

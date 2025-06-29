@@ -1,51 +1,66 @@
-.agreement-matrix table {
-  border-collapse: collapse;
-  margin-top: 20px;
-}
+.agreement-matrix {
+  color: #f0f0f0;
 
-.agreement-matrix th, .agreement-matrix td {
-  border: 1px solid #ddd;
-  padding: 12px;
-  text-align: center;
-  font-size: 16px;
-}
+  h2, p {
+    color: #f0f0f0;
+  }
 
-.agreement-matrix th {
-  background-color: #f2f2f2;
-}
+  table {
+    border-collapse: collapse;
+    margin-top: 20px;
 
-.agreement-matrix .justice-name {
-  text-align: left;
-  font-weight: bold;
-}
+    th, td {
+      border: 1px solid #444; // Darker border
+      padding: 12px;
+      text-align: center;
+      font-size: 16px;
+      color: #f0f0f0; // Light text for all cells
+    }
 
-.agreement-matrix .cell-wrapper {
-  position: relative;
-  cursor: pointer;
-}
+    th {
+      background-color: #2c2c2c; // Dark header
+      font-weight: bold;
+    }
 
-.agreement-matrix .tooltip {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  position: absolute;
-  z-index: 1;
-  bottom: 125%;
-  left: 50%;
-  margin-left: -60px;
-  opacity: 0;
-  transition: opacity 0.3s;
-}
+    .justice-name {
+      text-align: left;
+      font-weight: bold;
+      background-color: #2c2c2c; // Dark header for row labels
+    }
 
-.agreement-matrix .cell-wrapper:hover .tooltip {
-  visibility: visible;
-  opacity: 1;
-}
+    .cell-wrapper {
+      position: relative;
+      cursor: pointer;
 
-.light-text {
-  color: white;
+      .tooltip {
+        visibility: hidden;
+        width: 140px; // Slightly wider
+        background-color: #1a1a1a; // Match page background
+        color: #f0f0f0;
+        text-align: center;
+        border-radius: 6px;
+        padding: 8px;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        margin-left: -70px; // Adjust for new width
+        opacity: 0;
+        transition: opacity 0.3s;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.5);
+        border: 1px solid #444;
+      }
+
+      &:hover {
+        .tooltip {
+          visibility: visible;
+          opacity: 1;
+        }
+      }
+    }
+  }
+
+  .light-text {
+    color: white;
+  }
 }

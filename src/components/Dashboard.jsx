@@ -44,21 +44,25 @@ function Dashboard() {
             </div>
           </div>
         </div>
-        <div className="col-md-4">
+        {/* <div className="col-md-4">
           <div className="card text-center">
             <div className="card-body">
               <h5 className="card-title">Most Frequent Vote Split</h5>
               <p className="card-text display-4">{mostFrequentSplit}</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
       <div className="row mt-4">
-        <div className="col-md-6">
-          <VoteSplitChart />
+        <div className="col-md-6 mb-4">
+          <div className="chart-container">
+            <VoteSplitChart />
+          </div>
         </div>
         <div className="col-md-6">
-          <DecisionTypeChart />
+          <div className="chart-container">
+            <DecisionTypeChart />
+          </div>
         </div>
       </div>
     </div>

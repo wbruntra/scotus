@@ -1,10 +1,49 @@
 .case-explorer .justices-selection {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
-  padding: 10px;
-  border: 1px solid #ddd;
+  gap: 12px;
+  padding: 15px;
+  border: 1px solid #444;
   border-radius: 8px;
+  background-color: #2a2a2a;
+}
+
+.case-explorer .justice-pill {
+  background-color: #3a3a3a;
+  border: 2px solid #555;
+  border-radius: 20px;
+  padding: 8px 16px;
+  color: #f0f0f0;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  
+  &:hover {
+    background-color: #4a4a4a;
+    border-color: #666;
+    transform: translateY(-1px);
+  }
+  
+  &.selected {
+    background-color: #4e79a7;
+    border-color: #4e79a7;
+    color: white;
+    box-shadow: 0 2px 4px rgba(78, 121, 167, 0.3);
+  }
+  
+  &.selected:hover {
+    background-color: #3d6085;
+    border-color: #3d6085;
+  }
+}
+
+.case-explorer .quick-actions {
+  .btn {
+    font-size: 0.8rem;
+    padding: 4px 8px;
+  }
 }
 
 .case-explorer .list-group-item {
@@ -17,11 +56,77 @@
 .case-explorer .vote-groups {
   margin-top: 10px;
   padding: 10px;
-  background-color: #f8f9fa;
-  border-top: 1px solid #eee;
+  background-color: #2c2c2c; // Darker background for contrast
+  border-top: 1px solid #444; // Darker border
   border-radius: 0 0 8px 8px; // Rounded bottom corners
 
   p {
     font-size: 0.9rem;
+    color: #f0f0f0; // Ensure text is light
+  }
+}
+
+.case-explorer .vote-type-selection {
+  display: inline-flex;
+  gap: 6px;
+  padding: 8px;
+  border: 1px solid #444;
+  border-radius: 25px;
+  background-color: #2a2a2a;
+}
+
+.case-explorer .vote-type-pill {
+  background-color: transparent;
+  border: none;
+  border-radius: 18px;
+  padding: 8px 16px;
+  color: #b0b0b0;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  
+  &:hover {
+    background-color: #3a3a3a;
+    color: #e0e0e0;
+  }
+  
+  &.selected {
+    background-color: #e15759;
+    color: white;
+    box-shadow: 0 2px 4px rgba(225, 87, 89, 0.3);
+  }
+  
+  &.selected:hover {
+    background-color: #c74547;
+  }
+}
+
+.case-explorer .pdf-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  background: linear-gradient(135deg, #4e79a7, #3d6085);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(78, 121, 167, 0.2);
+  
+  &:hover {
+    background: linear-gradient(135deg, #3d6085, #2c4a63);
+    color: white;
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(78, 121, 167, 0.3);
+  }
+  
+  .pdf-icon {
+    font-size: 1rem;
+    opacity: 0.9;
   }
 }

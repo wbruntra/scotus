@@ -52,36 +52,15 @@
     "dissentingOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Alito",
-          "Gorsuch",
-          "Barrett"
-        ]
+        "joinedBy": ["Alito", "Gorsuch", "Barrett"]
       }
     ],
-    "majorityJustices": [
-      "Kavanaugh",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Jackson"
-    ],
+    "majorityJustices": ["Kavanaugh", "Roberts", "Sotomayor", "Kagan", "Jackson"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Thomas",
-      "Alito",
-      "Gorsuch",
-      "Barrett"
-    ],
+    "dissentingJustices": ["Thomas", "Alito", "Gorsuch", "Barrett"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Kavanaugh",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Jackson"
-    ]
+    "justicesFor": ["Kavanaugh", "Roberts", "Sotomayor", "Kagan", "Jackson"]
   },
   {
     "fullText": "Judgment: Reversed, 7-2, in an opinion by Justice Gorsuch on March 26, 2025. Justices Sotomayor, Kavanaugh, and Jackson each filed concurring opinions. Justices Thomas and Alito each filed dissenting opinions.",
@@ -117,32 +96,12 @@
         "joinedBy": []
       }
     ],
-    "majorityJustices": [
-      "Gorsuch",
-      "Roberts",
-      "Kagan",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Sotomayor",
-      "Kavanaugh",
-      "Jackson"
-    ],
-    "dissentingJustices": [
-      "Thomas",
-      "Alito"
-    ],
+    "majorityJustices": ["Gorsuch", "Roberts", "Kagan", "Barrett"],
+    "concurringJustices": ["Sotomayor", "Kavanaugh", "Jackson"],
+    "dissentingJustices": ["Thomas", "Alito"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Gorsuch",
-      "Roberts",
-      "Kagan",
-      "Barrett",
-      "Sotomayor",
-      "Kavanaugh",
-      "Jackson"
-    ]
+    "justicesFor": ["Gorsuch", "Roberts", "Kagan", "Barrett", "Sotomayor", "Kavanaugh", "Jackson"]
   },
   {
     "fullText": "Judgment: Reversed, 7-2, in an opinion by Chief Justice Roberts on February 25, 2025. Justice Jackson filed a dissenting opinion, in which Justice Sotomayor joined.",
@@ -158,36 +117,15 @@
     "dissentingOpinions": [
       {
         "justice": "Jackson",
-        "joinedBy": [
-          "Sotomayor"
-        ]
+        "joinedBy": ["Sotomayor"]
       }
     ],
-    "majorityJustices": [
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Kavanaugh",
-      "Barrett"
-    ],
+    "majorityJustices": ["Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Kavanaugh", "Barrett"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Jackson",
-      "Sotomayor"
-    ],
+    "dissentingJustices": ["Jackson", "Sotomayor"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Kavanaugh",
-      "Barrett"
-    ]
+    "justicesFor": ["Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Kavanaugh", "Barrett"]
   },
   {
     "fullText": "Judgment: Reversed, 5-3, in an opinion by Justice Sotomayor on February 25, 2025. Justice Barrett joined as to Part II. Justice Barrett filed an opinion concurring in part and dissenting in part. Justice Thomas filed a dissenting opinion, in which Justice Alito joined, and in which Justice Barrett joined as to Parts IV-A-1, IV-A-2, and IV-A-3. Justice Gorsuch took no part in the consideration or decision of the case.",
@@ -208,35 +146,15 @@
     "dissentingOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Alito"
-        ]
+        "joinedBy": ["Alito"]
       }
     ],
-    "majorityJustices": [
-      "Sotomayor",
-      "Roberts",
-      "Kagan",
-      "Gorsuch",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Barrett"
-    ],
-    "dissentingJustices": [
-      "Thomas",
-      "Alito"
-    ],
+    "majorityJustices": ["Sotomayor", "Roberts", "Kagan", "Gorsuch", "Jackson"],
+    "concurringJustices": ["Barrett"],
+    "dissentingJustices": ["Thomas", "Alito"],
     "totalMajority": 5,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Sotomayor",
-      "Roberts",
-      "Kagan",
-      "Gorsuch",
-      "Jackson",
-      "Barrett"
-    ]
+    "justicesFor": ["Sotomayor", "Roberts", "Kagan", "Gorsuch", "Jackson", "Barrett"]
   },
   {
     "fullText": "Judgment: Affirmed, 9-0, in an opinion by Justice Jackson on December 10, 2024.",
@@ -300,36 +218,15 @@
       },
       {
         "justice": "Kavanaugh",
-        "joinedBy": [
-          "Roberts",
-          "Alito"
-        ]
+        "joinedBy": ["Roberts", "Alito"]
       }
     ],
-    "majorityJustices": [
-      "Barrett",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch"
-    ],
-    "concurringJustices": [
-      "Jackson"
-    ],
-    "dissentingJustices": [
-      "Thomas",
-      "Kavanaugh",
-      "Roberts",
-      "Alito"
-    ],
+    "majorityJustices": ["Barrett", "Sotomayor", "Kagan", "Gorsuch"],
+    "concurringJustices": ["Jackson"],
+    "dissentingJustices": ["Thomas", "Kavanaugh", "Roberts", "Alito"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Barrett",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch",
-      "Jackson"
-    ]
+    "justicesFor": ["Barrett", "Sotomayor", "Kagan", "Gorsuch", "Jackson"]
   },
   {
     "fullText": "Judgment: Reversed, 5-4, in an opinion by Justice Alito on March 4, 2025. Justice Alito delivered the opinion of the court, in which Chief Justice Roberts and Justices Thomas and Kavanaugh joined, in which Justice Gorsuch joined as to all but Part II, and in which Justices Sotomayor, Kagan, Barrett, and Jackson joined as to Part II. Justice Barrett filed an opinion dissenting in part, in which Justices Sotomayor, Kagan, and Jackson joined.",
@@ -345,36 +242,15 @@
     "dissentingOpinions": [
       {
         "justice": "Barrett",
-        "joinedBy": [
-          "Sotomayor",
-          "Kagan",
-          "Jackson"
-        ]
+        "joinedBy": ["Sotomayor", "Kagan", "Jackson"]
       }
     ],
-    "majorityJustices": [
-      "Alito",
-      "Roberts",
-      "Thomas",
-      "Gorsuch",
-      "Kavanaugh"
-    ],
+    "majorityJustices": ["Alito", "Roberts", "Thomas", "Gorsuch", "Kavanaugh"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Barrett",
-      "Sotomayor",
-      "Kagan",
-      "Jackson"
-    ],
+    "dissentingJustices": ["Barrett", "Sotomayor", "Kagan", "Jackson"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Alito",
-      "Roberts",
-      "Thomas",
-      "Gorsuch",
-      "Kavanaugh"
-    ]
+    "justicesFor": ["Alito", "Roberts", "Thomas", "Gorsuch", "Kavanaugh"]
   },
   {
     "fullText": "Judgment: Affirmed, 7-2, in an opinion by Justice Thomas on March 5, 2025. Justice Jackson filed a dissenting opinion, in which Justice Gorsuch joined.",
@@ -390,9 +266,7 @@
     "dissentingOpinions": [
       {
         "justice": "Jackson",
-        "joinedBy": [
-          "Gorsuch"
-        ]
+        "joinedBy": ["Gorsuch"]
       }
     ],
     "majorityJustices": [
@@ -405,21 +279,10 @@
       "Barrett"
     ],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Jackson",
-      "Gorsuch"
-    ],
+    "dissentingJustices": ["Jackson", "Gorsuch"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Thomas",
-      "Roberts",
-      "Alito",
-      "Sotomayor",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett"
-    ]
+    "justicesFor": ["Thomas", "Roberts", "Alito", "Sotomayor", "Kagan", "Kavanaugh", "Barrett"]
   },
   {
     "fullText": "Judgment: Affirmed, 9-0, in an opinion by Justice Kagan on February 21, 2025. Justice Thomas filed a concurring opinion, in which Justice Kavanaugh joined and in which Justice Alito joined as to Part I. Justice Kavanaugh filed a concurring opinion, in which Justice Thomas joined.",
@@ -434,32 +297,16 @@
     "concurringOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Kavanaugh",
-          "Alito"
-        ]
+        "joinedBy": ["Kavanaugh", "Alito"]
       },
       {
         "justice": "Kavanaugh",
-        "joinedBy": [
-          "Thomas"
-        ]
+        "joinedBy": ["Thomas"]
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Kagan",
-      "Roberts",
-      "Sotomayor",
-      "Gorsuch",
-      "Barrett",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Thomas",
-      "Kavanaugh",
-      "Alito"
-    ],
+    "majorityJustices": ["Kagan", "Roberts", "Sotomayor", "Gorsuch", "Barrett", "Jackson"],
+    "concurringJustices": ["Thomas", "Kavanaugh", "Alito"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -489,36 +336,15 @@
     "dissentingOpinions": [
       {
         "justice": "Jackson",
-        "joinedBy": [
-          "Sotomayor"
-        ]
+        "joinedBy": ["Sotomayor"]
       }
     ],
-    "majorityJustices": [
-      "Barrett",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Kavanaugh"
-    ],
+    "majorityJustices": ["Barrett", "Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Kavanaugh"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Jackson",
-      "Sotomayor"
-    ],
+    "dissentingJustices": ["Jackson", "Sotomayor"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Barrett",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Kavanaugh"
-    ]
+    "justicesFor": ["Barrett", "Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Kavanaugh"]
   },
   {
     "fullText": "Judgment: Reversed, 9-0, in an opinion by Justice Kavanaugh on January 15, 2025. Justice Gorsuch filed a concurring opinion, in which Justice Thomas joined.",
@@ -533,9 +359,7 @@
     "concurringOpinions": [
       {
         "justice": "Gorsuch",
-        "joinedBy": [
-          "Thomas"
-        ]
+        "joinedBy": ["Thomas"]
       }
     ],
     "dissentingOpinions": [],
@@ -548,10 +372,7 @@
       "Barrett",
       "Jackson"
     ],
-    "concurringJustices": [
-      "Gorsuch",
-      "Thomas"
-    ],
+    "concurringJustices": ["Gorsuch", "Thomas"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -620,48 +441,23 @@
     "dissentingOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Alito",
-          "Kavanaugh",
-          "Barrett"
-        ]
+        "joinedBy": ["Alito", "Kavanaugh", "Barrett"]
       },
       {
         "justice": "Alito",
-        "joinedBy": [
-          "Kavanaugh"
-        ]
+        "joinedBy": ["Kavanaugh"]
       },
       {
         "justice": "Barrett",
-        "joinedBy": [
-          "Kavanaugh"
-        ]
+        "joinedBy": ["Kavanaugh"]
       }
     ],
-    "majorityJustices": [
-      "Gorsuch",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Jackson"
-    ],
+    "majorityJustices": ["Gorsuch", "Roberts", "Sotomayor", "Kagan", "Jackson"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Thomas",
-      "Alito",
-      "Kavanaugh",
-      "Barrett"
-    ],
+    "dissentingJustices": ["Thomas", "Alito", "Kavanaugh", "Barrett"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Gorsuch",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Jackson"
-    ]
+    "justicesFor": ["Gorsuch", "Roberts", "Sotomayor", "Kagan", "Jackson"]
   },
   {
     "fullText": "Judgment: Affirmed, 7-2, in an opinion by Justice Thomas on March 21, 2025. Justice Gorsuch filed a dissenting opinion, in which Justice Jackson joined.",
@@ -677,9 +473,7 @@
     "dissentingOpinions": [
       {
         "justice": "Gorsuch",
-        "joinedBy": [
-          "Jackson"
-        ]
+        "joinedBy": ["Jackson"]
       }
     ],
     "majorityJustices": [
@@ -692,21 +486,10 @@
       "Barrett"
     ],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Gorsuch",
-      "Jackson"
-    ],
+    "dissentingJustices": ["Gorsuch", "Jackson"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Thomas",
-      "Roberts",
-      "Alito",
-      "Sotomayor",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett"
-    ]
+    "justicesFor": ["Thomas", "Roberts", "Alito", "Sotomayor", "Kagan", "Kavanaugh", "Barrett"]
   },
   {
     "fullText": "Judgment: Dismissed as improvidently granted in a Per Curiam opinion on December 11, 2024.",
@@ -748,15 +531,15 @@
     ]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 9-0, in an opinion by Justice Alito on April 2, 2025. Justice Sotomayor filed a concurring opinion.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 9-0, in an opinion by Justice Alito on April 2, 2025. Justice Sotomayor filed a concurring opinion.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-1038_2d93.pdf",
     "caseTitle": "Food and Drug Administration v. Wages and White Lion Investments, LLC",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "April 2, 2025",
     "opinionBy": "Alito",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Sotomayor",
@@ -774,9 +557,7 @@
       "Barrett",
       "Jackson"
     ],
-    "concurringJustices": [
-      "Sotomayor"
-    ],
+    "concurringJustices": ["Sotomayor"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -820,9 +601,7 @@
       "Barrett"
     ],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Gorsuch"
-    ],
+    "dissentingJustices": ["Gorsuch"],
     "totalMajority": 8,
     "totalDissenting": 1,
     "justicesFor": [
@@ -837,15 +616,15 @@
     ]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 9-0, in an opinion by Justice Sotomayor on February 21, 2025.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 9-0, in an opinion by Justice Sotomayor on February 21, 2025.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-867_5h26.pdf",
     "caseTitle": "Republic of Hungary v. Simon",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "February 21, 2025",
     "opinionBy": "Sotomayor",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [],
     "dissentingOpinions": [],
     "majorityJustices": [
@@ -892,9 +671,7 @@
       },
       {
         "justice": "Barrett",
-        "joinedBy": [
-          "Thomas"
-        ]
+        "joinedBy": ["Thomas"]
       },
       {
         "justice": "Alito",
@@ -904,41 +681,19 @@
     "dissentingOpinions": [
       {
         "justice": "Sotomayor",
-        "joinedBy": [
-          "Jackson",
-          "Kagan"
-        ]
+        "joinedBy": ["Jackson", "Kagan"]
       },
       {
         "justice": "Kagan",
         "joinedBy": []
       }
     ],
-    "majorityJustices": [
-      "Roberts",
-      "Gorsuch",
-      "Kavanaugh"
-    ],
-    "concurringJustices": [
-      "Thomas",
-      "Barrett",
-      "Alito"
-    ],
-    "dissentingJustices": [
-      "Sotomayor",
-      "Jackson",
-      "Kagan"
-    ],
+    "majorityJustices": ["Roberts", "Gorsuch", "Kavanaugh"],
+    "concurringJustices": ["Thomas", "Barrett", "Alito"],
+    "dissentingJustices": ["Sotomayor", "Jackson", "Kagan"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Roberts",
-      "Gorsuch",
-      "Kavanaugh",
-      "Thomas",
-      "Barrett",
-      "Alito"
-    ]
+    "justicesFor": ["Roberts", "Gorsuch", "Kavanaugh", "Thomas", "Barrett", "Alito"]
   },
   {
     "fullText": "Judgment: Affirmed, 9-0, in an opinion by Justice Barrett on May 22, 2025. Justice Thomas filed a concurring opinion. Justice Gorsuch filed an opinion concurring in part and concurring in the judgment. Justice Sotomayor filed an opinion concurring in the judgment.",
@@ -965,19 +720,8 @@
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Barrett",
-      "Roberts",
-      "Alito",
-      "Kagan",
-      "Kavanaugh",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Thomas",
-      "Gorsuch",
-      "Sotomayor"
-    ],
+    "majorityJustices": ["Barrett", "Roberts", "Alito", "Kagan", "Kavanaugh", "Jackson"],
+    "concurringJustices": ["Thomas", "Gorsuch", "Sotomayor"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1007,36 +751,15 @@
     "dissentingOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Alito",
-          "Kagan",
-          "Jackson"
-        ]
+        "joinedBy": ["Alito", "Kagan", "Jackson"]
       }
     ],
-    "majorityJustices": [
-      "Gorsuch",
-      "Roberts",
-      "Sotomayor",
-      "Kavanaugh",
-      "Barrett"
-    ],
+    "majorityJustices": ["Gorsuch", "Roberts", "Sotomayor", "Kavanaugh", "Barrett"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Jackson"
-    ],
+    "dissentingJustices": ["Thomas", "Alito", "Kagan", "Jackson"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Gorsuch",
-      "Roberts",
-      "Sotomayor",
-      "Kavanaugh",
-      "Barrett"
-    ]
+    "justicesFor": ["Gorsuch", "Roberts", "Sotomayor", "Kavanaugh", "Barrett"]
   },
   {
     "fullText": "Judgment: Reversed, 8-0, in an opinion by Justice Kavanaugh on May 29, 2025. Justice Sotomayor filed a concurring opinion, in which Kagan and Jackson joined. Justice Gorsuch took no part in the consideration or decision of the case.",
@@ -1051,25 +774,12 @@
     "concurringOpinions": [
       {
         "justice": "Sotomayor",
-        "joinedBy": [
-          "Kagan",
-          "Jackson"
-        ]
+        "joinedBy": ["Kagan", "Jackson"]
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Kavanaugh",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Gorsuch"
-    ],
-    "concurringJustices": [
-      "Sotomayor",
-      "Kagan",
-      "Jackson"
-    ],
+    "majorityJustices": ["Kavanaugh", "Roberts", "Thomas", "Alito", "Gorsuch"],
+    "concurringJustices": ["Sotomayor", "Kagan", "Jackson"],
     "dissentingJustices": [],
     "totalMajority": 8,
     "totalDissenting": 0,
@@ -1085,15 +795,15 @@
     ]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 9-0, in an opinion by Justice Kagan on February 26, 2025. Justice Sotomayor filed a concurring opinion.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 9-0, in an opinion by Justice Kagan on February 26, 2025. Justice Sotomayor filed a concurring opinion.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-900_19m1.pdf",
     "caseTitle": "Dewberry Group, Inc. v. Dewberry Engineers, Inc.",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "February 26, 2025",
     "opinionBy": "Kagan",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Sotomayor",
@@ -1111,9 +821,7 @@
       "Barrett",
       "Jackson"
     ],
-    "concurringJustices": [
-      "Sotomayor"
-    ],
+    "concurringJustices": ["Sotomayor"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1150,19 +858,8 @@
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Sotomayor",
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Roberts", "Thomas", "Alito", "Kagan", "Kavanaugh", "Barrett", "Jackson"],
+    "concurringJustices": ["Sotomayor", "Gorsuch"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1192,36 +889,15 @@
     "dissentingOpinions": [
       {
         "justice": "Alito",
-        "joinedBy": [
-          "Thomas",
-          "Kavanaugh",
-          "Barrett"
-        ]
+        "joinedBy": ["Thomas", "Kavanaugh", "Barrett"]
       }
     ],
-    "majorityJustices": [
-      "Jackson",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Jackson", "Roberts", "Sotomayor", "Kagan", "Gorsuch"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Alito",
-      "Thomas",
-      "Kavanaugh",
-      "Barrett"
-    ],
+    "dissentingJustices": ["Alito", "Thomas", "Kavanaugh", "Barrett"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Jackson",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch"
-    ]
+    "justicesFor": ["Jackson", "Roberts", "Sotomayor", "Kagan", "Gorsuch"]
   },
   {
     "fullText": "Judgment: Affirmed, 8-1, in an opinion by Justice Gorsuch on June 20, 2025. Justice Thomas filed an opinion concurring in part and concurring in the judgment, joined by Justice Barrett. Justice Sotomayor filed an opinion concurring in part and dissenting in part. Justice Jackson filed a dissenting opinion.",
@@ -1236,9 +912,7 @@
     "concurringOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Barrett"
-        ]
+        "joinedBy": ["Barrett"]
       },
       {
         "justice": "Sotomayor",
@@ -1251,21 +925,9 @@
         "joinedBy": []
       }
     ],
-    "majorityJustices": [
-      "Gorsuch",
-      "Roberts",
-      "Alito",
-      "Kagan",
-      "Kavanaugh"
-    ],
-    "concurringJustices": [
-      "Thomas",
-      "Barrett",
-      "Sotomayor"
-    ],
-    "dissentingJustices": [
-      "Jackson"
-    ],
+    "majorityJustices": ["Gorsuch", "Roberts", "Alito", "Kagan", "Kavanaugh"],
+    "concurringJustices": ["Thomas", "Barrett", "Sotomayor"],
+    "dissentingJustices": ["Jackson"],
     "totalMajority": 8,
     "totalDissenting": 1,
     "justicesFor": [
@@ -1280,15 +942,15 @@
     ]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 9-0, in an opinion by Chief Justice Roberts on March 21, 2025. Justices Alito and Jackson filed concurring opinions.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 9-0, in an opinion by Chief Justice Roberts on March 21, 2025. Justices Alito and Jackson filed concurring opinions.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-1095_8mjp.pdf",
     "caseTitle": "Thompson v. United States",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "March 21, 2025",
     "opinionBy": "Roberts",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Alito",
@@ -1309,10 +971,7 @@
       "Kavanaugh",
       "Barrett"
     ],
-    "concurringJustices": [
-      "Alito",
-      "Jackson"
-    ],
+    "concurringJustices": ["Alito", "Jackson"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1381,36 +1040,15 @@
     "dissentingOpinions": [
       {
         "justice": "Kagan",
-        "joinedBy": [
-          "Sotomayor",
-          "Jackson"
-        ]
+        "joinedBy": ["Sotomayor", "Jackson"]
       }
     ],
-    "majorityJustices": [
-      "Thomas",
-      "Roberts",
-      "Alito",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Thomas", "Roberts", "Alito", "Sotomayor", "Kagan", "Gorsuch"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Kagan",
-      "Sotomayor",
-      "Jackson"
-    ],
+    "dissentingJustices": ["Kagan", "Sotomayor", "Jackson"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Thomas",
-      "Roberts",
-      "Alito",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch"
-    ]
+    "justicesFor": ["Thomas", "Roberts", "Alito", "Sotomayor", "Kagan", "Gorsuch"]
   },
   {
     "fullText": "Judgment: Reversed, 6-3, in an opinion by Justice Kavanaugh on June 20, 2025. Justice Kagan filed a dissenting opinion, joined by Justices Sotomayor and Jackson.",
@@ -1426,36 +1064,15 @@
     "dissentingOpinions": [
       {
         "justice": "Kagan",
-        "joinedBy": [
-          "Sotomayor",
-          "Jackson"
-        ]
+        "joinedBy": ["Sotomayor", "Jackson"]
       }
     ],
-    "majorityJustices": [
-      "Kavanaugh",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Gorsuch",
-      "Barrett"
-    ],
+    "majorityJustices": ["Kavanaugh", "Roberts", "Thomas", "Alito", "Gorsuch", "Barrett"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Kagan",
-      "Sotomayor",
-      "Jackson"
-    ],
+    "dissentingJustices": ["Kagan", "Sotomayor", "Jackson"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Kavanaugh",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Gorsuch",
-      "Barrett"
-    ]
+    "justicesFor": ["Kavanaugh", "Roberts", "Thomas", "Alito", "Gorsuch", "Barrett"]
   },
   {
     "fullText": "Judgment: Affirmed, 7-2, in an opinion by Justice Barrett on June 20, 2025. Justice Jackson filed a dissenting opinion, joined by Justice Sotomayor.",
@@ -1471,71 +1088,35 @@
     "dissentingOpinions": [
       {
         "justice": "Jackson",
-        "joinedBy": [
-          "Sotomayor"
-        ]
+        "joinedBy": ["Sotomayor"]
       }
     ],
-    "majorityJustices": [
-      "Barrett",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Kavanaugh"
-    ],
+    "majorityJustices": ["Barrett", "Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Kavanaugh"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Jackson",
-      "Sotomayor"
-    ],
+    "dissentingJustices": ["Jackson", "Sotomayor"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Barrett",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Kavanaugh"
-    ]
+    "justicesFor": ["Barrett", "Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Kavanaugh"]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded , 9-0, in an opinion by Justice Kagan on May 15, 2025. Justice Kavanaugh filed a concurring opinion, in which Justices Thomas, Alito, and Barrett joined.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated , 9-0, in an opinion by Justice Kagan on May 15, 2025. Justice Kavanaugh filed a concurring opinion, in which Justices Thomas, Alito, and Barrett joined.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-1239_onjq.pdf",
     "caseTitle": "Barnes v. Felix",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "May 15, 2025",
     "opinionBy": "Kagan",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Kavanaugh",
-        "joinedBy": [
-          "Thomas",
-          "Alito",
-          "Barrett"
-        ]
+        "joinedBy": ["Thomas", "Alito", "Barrett"]
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Kagan",
-      "Roberts",
-      "Sotomayor",
-      "Gorsuch",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Kavanaugh",
-      "Thomas",
-      "Alito",
-      "Barrett"
-    ],
+    "majorityJustices": ["Kagan", "Roberts", "Sotomayor", "Gorsuch", "Jackson"],
+    "concurringJustices": ["Kavanaugh", "Thomas", "Alito", "Barrett"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1564,26 +1145,12 @@
     "concurringOpinions": [
       {
         "justice": "Alito",
-        "joinedBy": [
-          "Thomas",
-          "Kavanaugh"
-        ]
+        "joinedBy": ["Thomas", "Kavanaugh"]
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Sotomayor",
-      "Roberts",
-      "Kagan",
-      "Gorsuch",
-      "Barrett",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Alito",
-      "Thomas",
-      "Kavanaugh"
-    ],
+    "majorityJustices": ["Sotomayor", "Roberts", "Kagan", "Gorsuch", "Barrett", "Jackson"],
+    "concurringJustices": ["Alito", "Thomas", "Kavanaugh"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1622,54 +1189,30 @@
       },
       {
         "justice": "Alito",
-        "joinedBy": [
-          "Gorsuch",
-          "Thomas"
-        ]
+        "joinedBy": ["Gorsuch", "Thomas"]
       }
     ],
-    "majorityJustices": [
-      "Sotomayor",
-      "Roberts",
-      "Kagan",
-      "Kavanaugh",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Barrett"
-    ],
-    "dissentingJustices": [
-      "Thomas",
-      "Alito",
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Sotomayor", "Roberts", "Kagan", "Kavanaugh", "Jackson"],
+    "concurringJustices": ["Barrett"],
+    "dissentingJustices": ["Thomas", "Alito", "Gorsuch"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Sotomayor",
-      "Roberts",
-      "Kagan",
-      "Kavanaugh",
-      "Jackson",
-      "Barrett"
-    ]
+    "justicesFor": ["Sotomayor", "Roberts", "Kagan", "Kavanaugh", "Jackson", "Barrett"]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 7-2, in an opinion by Justice Barrett on June 20, 2025. Justice Alito filed a dissenting opinion, joined by Justice Gorsuch. Justice Sotomayor filed an opinion concurring in part and concurring in the judgment, joined by Justice Jackson. Justice Jackson filed an opinion concurring in part and concurring in the judgment.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 7-2, in an opinion by Justice Barrett on June 20, 2025. Justice Alito filed a dissenting opinion, joined by Justice Gorsuch. Justice Sotomayor filed an opinion concurring in part and concurring in the judgment, joined by Justice Jackson. Justice Jackson filed an opinion concurring in part and concurring in the judgment.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-7483_6k4c.pdf",
     "caseTitle": "Esteras v. United States",
     "votesFor": 7,
     "votesAgainst": 2,
     "date": "June 20, 2025",
     "opinionBy": "Barrett",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Sotomayor",
-        "joinedBy": [
-          "Jackson"
-        ]
+        "joinedBy": ["Jackson"]
       },
       {
         "justice": "Jackson",
@@ -1679,37 +1222,15 @@
     "dissentingOpinions": [
       {
         "justice": "Alito",
-        "joinedBy": [
-          "Gorsuch"
-        ]
+        "joinedBy": ["Gorsuch"]
       }
     ],
-    "majorityJustices": [
-      "Barrett",
-      "Roberts",
-      "Thomas",
-      "Kagan",
-      "Kavanaugh"
-    ],
-    "concurringJustices": [
-      "Sotomayor",
-      "Jackson"
-    ],
-    "dissentingJustices": [
-      "Alito",
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Barrett", "Roberts", "Thomas", "Kagan", "Kavanaugh"],
+    "concurringJustices": ["Sotomayor", "Jackson"],
+    "dissentingJustices": ["Alito", "Gorsuch"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Barrett",
-      "Roberts",
-      "Thomas",
-      "Kagan",
-      "Kavanaugh",
-      "Sotomayor",
-      "Jackson"
-    ]
+    "justicesFor": ["Barrett", "Roberts", "Thomas", "Kagan", "Kavanaugh", "Sotomayor", "Jackson"]
   },
   {
     "fullText": "Judgment: Affirmed, 5-4, in an opinion by Chief Justice Roberts on June 18, 2025. Justice Barrett filed a dissenting opinion, joined by Justices Thomas, Alito and Kavanaugh.",
@@ -1725,53 +1246,30 @@
     "dissentingOpinions": [
       {
         "justice": "Barrett",
-        "joinedBy": [
-          "Thomas",
-          "Alito",
-          "Kavanaugh"
-        ]
+        "joinedBy": ["Thomas", "Alito", "Kavanaugh"]
       }
     ],
-    "majorityJustices": [
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch",
-      "Jackson"
-    ],
+    "majorityJustices": ["Roberts", "Sotomayor", "Kagan", "Gorsuch", "Jackson"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Barrett",
-      "Thomas",
-      "Alito",
-      "Kavanaugh"
-    ],
+    "dissentingJustices": ["Barrett", "Thomas", "Alito", "Kavanaugh"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Gorsuch",
-      "Jackson"
-    ]
+    "justicesFor": ["Roberts", "Sotomayor", "Kagan", "Gorsuch", "Jackson"]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 9-0, in an opinion by Justice Jackson on June 5, 2025. Justice Thomas filed a concurring opinion, in which Justice Gorsuch joined.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 9-0, in an opinion by Justice Jackson on June 5, 2025. Justice Thomas filed a concurring opinion, in which Justice Gorsuch joined.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-1039_c0n2.pdf",
     "caseTitle": "Ames v. Ohio Department of Youth Services",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "June 5, 2025",
     "opinionBy": "Jackson",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Gorsuch"
-        ]
+        "joinedBy": ["Gorsuch"]
       }
     ],
     "dissentingOpinions": [],
@@ -1784,10 +1282,7 @@
       "Kavanaugh",
       "Barrett"
     ],
-    "concurringJustices": [
-      "Thomas",
-      "Gorsuch"
-    ],
+    "concurringJustices": ["Thomas", "Gorsuch"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1830,9 +1325,7 @@
       "Kavanaugh",
       "Barrett"
     ],
-    "concurringJustices": [
-      "Jackson"
-    ],
+    "concurringJustices": ["Jackson"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1917,10 +1410,7 @@
       "Kavanaugh",
       "Barrett"
     ],
-    "concurringJustices": [
-      "Thomas",
-      "Jackson"
-    ],
+    "concurringJustices": ["Thomas", "Jackson"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -1950,47 +1440,26 @@
     "dissentingOpinions": [
       {
         "justice": "Gorsuch",
-        "joinedBy": [
-          "Thomas",
-          "Alito"
-        ]
+        "joinedBy": ["Thomas", "Alito"]
       }
     ],
-    "majorityJustices": [
-      "Kavanaugh",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Barrett",
-      "Jackson"
-    ],
+    "majorityJustices": ["Kavanaugh", "Roberts", "Sotomayor", "Kagan", "Barrett", "Jackson"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Gorsuch",
-      "Thomas",
-      "Alito"
-    ],
+    "dissentingJustices": ["Gorsuch", "Thomas", "Alito"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Kavanaugh",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Barrett",
-      "Jackson"
-    ]
+    "justicesFor": ["Kavanaugh", "Roberts", "Sotomayor", "Kagan", "Barrett", "Jackson"]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 5-4, in an opinion by Justice Alito on June 26, 2025. Justices Sotomayor, Kagan, Gorsuch, and Jackson joined only Part II-B of the opinion of the court. Justice Thomas filed a concurring opinion. Sotomayor filed an opinion dissenting in part, which was joined in full by Kagan and Jackson and in part by Gorsuch.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 5-4, in an opinion by Justice Alito on June 26, 2025. Justices Sotomayor, Kagan, Gorsuch, and Jackson joined only Part II-B of the opinion of the court. Justice Thomas filed a concurring opinion. Sotomayor filed an opinion dissenting in part, which was joined in full by Kagan and Jackson and in part by Gorsuch.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-1270_6j37.pdf",
     "caseTitle": "Riley v. Bondi",
     "votesFor": 5,
     "votesAgainst": 4,
     "date": "June 26, 2025",
     "opinionBy": "Alito",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Thomas",
@@ -2000,55 +1469,31 @@
     "dissentingOpinions": [
       {
         "justice": "Sotomayor",
-        "joinedBy": [
-          "Kagan",
-          "Jackson",
-          "Gorsuch"
-        ]
+        "joinedBy": ["Kagan", "Jackson", "Gorsuch"]
       }
     ],
-    "majorityJustices": [
-      "Alito",
-      "Roberts",
-      "Kavanaugh",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Thomas"
-    ],
-    "dissentingJustices": [
-      "Sotomayor",
-      "Kagan",
-      "Jackson",
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Alito", "Roberts", "Kavanaugh", "Barrett"],
+    "concurringJustices": ["Thomas"],
+    "dissentingJustices": ["Sotomayor", "Kagan", "Jackson", "Gorsuch"],
     "totalMajority": 5,
     "totalDissenting": 4,
-    "justicesFor": [
-      "Alito",
-      "Roberts",
-      "Kavanaugh",
-      "Barrett",
-      "Thomas"
-    ]
+    "justicesFor": ["Alito", "Roberts", "Kavanaugh", "Barrett", "Thomas"]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 7-2, in an opinion by Justice Thomas on June 18, 2025. Justice Gorsuch filed a dissenting opinion, joined by Chief Justice Roberts.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 7-2, in an opinion by Justice Thomas on June 18, 2025. Justice Gorsuch filed a dissenting opinion, joined by Chief Justice Roberts.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-1229_c0ne.pdf",
     "caseTitle": "Environmental Protection Agency v. Calumet Shreveport Refining, LLC",
     "votesFor": 7,
     "votesAgainst": 2,
     "date": "June 18, 2025",
     "opinionBy": "Thomas",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [],
     "dissentingOpinions": [
       {
         "justice": "Gorsuch",
-        "joinedBy": [
-          "Roberts"
-        ]
+        "joinedBy": ["Roberts"]
       }
     ],
     "majorityJustices": [
@@ -2061,21 +1506,10 @@
       "Jackson"
     ],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Gorsuch",
-      "Roberts"
-    ],
+    "dissentingJustices": ["Gorsuch", "Roberts"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Thomas",
-      "Alito",
-      "Sotomayor",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett",
-      "Jackson"
-    ]
+    "justicesFor": ["Thomas", "Alito", "Sotomayor", "Kagan", "Kavanaugh", "Barrett", "Jackson"]
   },
   {
     "fullText": "Judgment: Reversed, 8-0, in an opinion by Justice Thomas on June 18, 2025. Justice Gorsuch filed an opinion concurring in the judgment, in which Chief Justice Roberts joined. Justice Alito took no part in the consideration or decision of the case.",
@@ -2090,9 +1524,7 @@
     "concurringOpinions": [
       {
         "justice": "Gorsuch",
-        "joinedBy": [
-          "Roberts"
-        ]
+        "joinedBy": ["Roberts"]
       }
     ],
     "dissentingOpinions": [],
@@ -2105,10 +1537,7 @@
       "Kavanaugh",
       "Barrett"
     ],
-    "concurringJustices": [
-      "Gorsuch",
-      "Roberts"
-    ],
+    "concurringJustices": ["Gorsuch", "Roberts"],
     "dissentingJustices": [],
     "totalMajority": 8,
     "totalDissenting": 0,
@@ -2147,37 +1576,15 @@
     "dissentingOpinions": [
       {
         "justice": "Gorsuch",
-        "joinedBy": [
-          "Thomas",
-          "Alito"
-        ]
+        "joinedBy": ["Thomas", "Alito"]
       }
     ],
-    "majorityJustices": [
-      "Kagan",
-      "Roberts",
-      "Sotomayor",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Kavanaugh",
-      "Jackson"
-    ],
-    "dissentingJustices": [
-      "Gorsuch",
-      "Thomas",
-      "Alito"
-    ],
+    "majorityJustices": ["Kagan", "Roberts", "Sotomayor", "Barrett"],
+    "concurringJustices": ["Kavanaugh", "Jackson"],
+    "dissentingJustices": ["Gorsuch", "Thomas", "Alito"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Kagan",
-      "Roberts",
-      "Sotomayor",
-      "Barrett",
-      "Kavanaugh",
-      "Jackson"
-    ]
+    "justicesFor": ["Kagan", "Roberts", "Sotomayor", "Barrett", "Kavanaugh", "Jackson"]
   },
   {
     "fullText": "Judgment: Reversed, 9-0, in an opinion by Justice Sotomayor on June 5, 2025. Justices Thomas and Jackson filed concurring opinions.",
@@ -2209,10 +1616,7 @@
       "Kavanaugh",
       "Barrett"
     ],
-    "concurringJustices": [
-      "Thomas",
-      "Jackson"
-    ],
+    "concurringJustices": ["Thomas", "Jackson"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -2280,9 +1684,7 @@
     "concurringOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Gorsuch"
-        ]
+        "joinedBy": ["Gorsuch"]
       }
     ],
     "dissentingOpinions": [],
@@ -2295,10 +1697,7 @@
       "Barrett",
       "Jackson"
     ],
-    "concurringJustices": [
-      "Thomas",
-      "Gorsuch"
-    ],
+    "concurringJustices": ["Thomas", "Gorsuch"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -2333,37 +1732,15 @@
     "dissentingOpinions": [
       {
         "justice": "Jackson",
-        "joinedBy": [
-          "Sotomayor",
-          "Kagan"
-        ]
+        "joinedBy": ["Sotomayor", "Kagan"]
       }
     ],
-    "majorityJustices": [
-      "Gorsuch",
-      "Roberts",
-      "Alito",
-      "Kavanaugh",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Thomas"
-    ],
-    "dissentingJustices": [
-      "Jackson",
-      "Sotomayor",
-      "Kagan"
-    ],
+    "majorityJustices": ["Gorsuch", "Roberts", "Alito", "Kavanaugh", "Barrett"],
+    "concurringJustices": ["Thomas"],
+    "dissentingJustices": ["Jackson", "Sotomayor", "Kagan"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Gorsuch",
-      "Roberts",
-      "Alito",
-      "Kavanaugh",
-      "Barrett",
-      "Thomas"
-    ]
+    "justicesFor": ["Gorsuch", "Roberts", "Alito", "Kavanaugh", "Barrett", "Thomas"]
   },
   {
     "fullText": "Judgment: Reversed, 6-3, in an opinion by Justice Kavanaugh on June 27, 2025. KAVANAUGH, J., delivered the opinion of the Court, in which ROBERTS, C. J., and SOTOMAYOR, KAGAN, BARRETT, and JACKSON, JJ., joined. THOMAS, J., filed a dissenting opinion, in which ALITO and GORSUCH, JJ., joined.",
@@ -2379,36 +1756,15 @@
     "dissentingOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Alito",
-          "Gorsuch"
-        ]
+        "joinedBy": ["Alito", "Gorsuch"]
       }
     ],
-    "majorityJustices": [
-      "Kavanaugh",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Barrett",
-      "Jackson"
-    ],
+    "majorityJustices": ["Kavanaugh", "Roberts", "Sotomayor", "Kagan", "Barrett", "Jackson"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Thomas",
-      "Alito",
-      "Gorsuch"
-    ],
+    "dissentingJustices": ["Thomas", "Alito", "Gorsuch"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Kavanaugh",
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Barrett",
-      "Jackson"
-    ]
+    "justicesFor": ["Kavanaugh", "Roberts", "Sotomayor", "Kagan", "Barrett", "Jackson"]
   },
   {
     "fullText": "Judgment: Reversed, 8-1, in an opinion by Justice Sotomayor on June 12, 2025. Justice Jackson filed an opinion concurring in the judgment, joined by Justice Thomas. Justice Gorsuch filed a dissenting opinion.",
@@ -2423,9 +1779,7 @@
     "concurringOpinions": [
       {
         "justice": "Jackson",
-        "joinedBy": [
-          "Thomas"
-        ]
+        "joinedBy": ["Thomas"]
       }
     ],
     "dissentingOpinions": [
@@ -2434,21 +1788,9 @@
         "joinedBy": []
       }
     ],
-    "majorityJustices": [
-      "Sotomayor",
-      "Roberts",
-      "Alito",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Jackson",
-      "Thomas"
-    ],
-    "dissentingJustices": [
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Sotomayor", "Roberts", "Alito", "Kagan", "Kavanaugh", "Barrett"],
+    "concurringJustices": ["Jackson", "Thomas"],
+    "dissentingJustices": ["Gorsuch"],
     "totalMajority": 8,
     "totalDissenting": 1,
     "justicesFor": [
@@ -2490,9 +1832,7 @@
       "Jackson"
     ],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Gorsuch"
-    ],
+    "dissentingJustices": ["Gorsuch"],
     "totalMajority": 8,
     "totalDissenting": 1,
     "justicesFor": [
@@ -2525,37 +1865,15 @@
     "dissentingOpinions": [
       {
         "justice": "Sotomayor",
-        "joinedBy": [
-          "Kagan",
-          "Jackson"
-        ]
+        "joinedBy": ["Kagan", "Jackson"]
       }
     ],
-    "majorityJustices": [
-      "Alito",
-      "Roberts",
-      "Gorsuch",
-      "Kavanaugh",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Thomas"
-    ],
-    "dissentingJustices": [
-      "Sotomayor",
-      "Kagan",
-      "Jackson"
-    ],
+    "majorityJustices": ["Alito", "Roberts", "Gorsuch", "Kavanaugh", "Barrett"],
+    "concurringJustices": ["Thomas"],
+    "dissentingJustices": ["Sotomayor", "Kagan", "Jackson"],
     "totalMajority": 6,
     "totalDissenting": 3,
-    "justicesFor": [
-      "Alito",
-      "Roberts",
-      "Gorsuch",
-      "Kavanaugh",
-      "Barrett",
-      "Thomas"
-    ]
+    "justicesFor": ["Alito", "Roberts", "Gorsuch", "Kavanaugh", "Barrett", "Thomas"]
   },
   {
     "fullText": "Judgment: Reversed, 7-2, in an opinion by Justice Kavanaugh on June 20, 2025. Justices Sotomayor and Jackson filed dissenting opinions.",
@@ -2578,31 +1896,12 @@
         "joinedBy": []
       }
     ],
-    "majorityJustices": [
-      "Kavanaugh",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Barrett"
-    ],
+    "majorityJustices": ["Kavanaugh", "Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Barrett"],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Sotomayor",
-      "Jackson"
-    ],
+    "dissentingJustices": ["Sotomayor", "Jackson"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Kavanaugh",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Barrett"
-    ]
+    "justicesFor": ["Kavanaugh", "Roberts", "Thomas", "Alito", "Kagan", "Gorsuch", "Barrett"]
   },
   {
     "fullText": "Judgment: Reversed, 9-0, in an opinion by Justice Thomas on June 12, 2025.",
@@ -2644,43 +1943,28 @@
     ]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 9-0, in an opinion by Chief Justice Roberts on June 12, 2025. Justice Thomas filed a concurring opinion, joined by Justice Kavanaugh. Justice Sotomayor filed a concurring opinion, joined by Justice Jackson.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 9-0, in an opinion by Chief Justice Roberts on June 12, 2025. Justice Thomas filed a concurring opinion, joined by Justice Kavanaugh. Justice Sotomayor filed a concurring opinion, joined by Justice Jackson.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/24-249_a86c.pdf",
     "caseTitle": "A.J.T. v. Osseo Area Schools, Independent School District No. 279",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "June 12, 2025",
     "opinionBy": "Roberts",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Kavanaugh"
-        ]
+        "joinedBy": ["Kavanaugh"]
       },
       {
         "justice": "Sotomayor",
-        "joinedBy": [
-          "Jackson"
-        ]
+        "joinedBy": ["Jackson"]
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Roberts",
-      "Alito",
-      "Kagan",
-      "Gorsuch",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Thomas",
-      "Kavanaugh",
-      "Sotomayor",
-      "Jackson"
-    ],
+    "majorityJustices": ["Roberts", "Alito", "Kagan", "Gorsuch", "Barrett"],
+    "concurringJustices": ["Thomas", "Kavanaugh", "Sotomayor", "Jackson"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -2697,37 +1981,24 @@
     ]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded, 9-0, in an opinion by Justice Gorsuch on June 12, 2025. Justice Sotomayor filed a concurring opinion, joined by Justice Jackson.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated, 9-0, in an opinion by Justice Gorsuch on June 12, 2025. Justice Sotomayor filed a concurring opinion, joined by Justice Jackson.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/24-362_mjn0.pdf",
     "caseTitle": "Martin v. United States",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "June 12, 2025",
     "opinionBy": "Gorsuch",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Sotomayor",
-        "joinedBy": [
-          "Jackson"
-        ]
+        "joinedBy": ["Jackson"]
       }
     ],
     "dissentingOpinions": [],
-    "majorityJustices": [
-      "Gorsuch",
-      "Roberts",
-      "Thomas",
-      "Alito",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett"
-    ],
-    "concurringJustices": [
-      "Sotomayor",
-      "Jackson"
-    ],
+    "majorityJustices": ["Gorsuch", "Roberts", "Thomas", "Alito", "Kagan", "Kavanaugh", "Barrett"],
+    "concurringJustices": ["Sotomayor", "Jackson"],
     "dissentingJustices": [],
     "totalMajority": 9,
     "totalDissenting": 0,
@@ -2772,9 +2043,7 @@
       "Jackson"
     ],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Kavanaugh"
-    ],
+    "dissentingJustices": ["Kavanaugh"],
     "totalMajority": 9,
     "totalDissenting": 1,
     "justicesFor": [
@@ -2829,15 +2098,15 @@
     ]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded in a Per Curiam opinion on November 4, 2024. Justices Thomas and Gorsuch would grant the petition for a writ of certiorari and set the case for argument.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated in a Per Curiam opinion on November 4, 2024. Justices Thomas and Gorsuch would grant the petition for a writ of certiorari and set the case for argument.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-167_heim.pdf",
     "caseTitle": "Hamm v. Smith",
     "votesFor": 9,
     "votesAgainst": 0,
     "date": "November 4, 2024",
     "opinionBy": "Per Curiam",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [],
     "dissentingOpinions": [
       {
@@ -2859,32 +2128,21 @@
       "Jackson"
     ],
     "concurringJustices": [],
-    "dissentingJustices": [
-      "Thomas",
-      "Gorsuch"
-    ],
+    "dissentingJustices": ["Thomas", "Gorsuch"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Roberts",
-      "Alito",
-      "Sotomayor",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett",
-      "Jackson"
-    ]
+    "justicesFor": ["Roberts", "Alito", "Sotomayor", "Kagan", "Kavanaugh", "Barrett", "Jackson"]
   },
   {
-    "fullText": "Judgment: Vacated and Remanded in a Per Curiam opinion on January 21, 2025. Justice Alito filed a concurring opinion. Justice Thomas, with whom Justice Gorsuch joins, filed a dissenting opinion.",
-    "linkText": "Vacated and Remanded",
+    "fullText": "Judgment: Vacated in a Per Curiam opinion on January 21, 2025. Justice Alito filed a concurring opinion. Justice Thomas, with whom Justice Gorsuch joins, filed a dissenting opinion.",
+    "linkText": "Vacated",
     "linkUrl": "https://www.supremecourt.gov/opinions/24pdf/23-6573_m647.pdf",
     "caseTitle": "Andrew v. White",
     "votesFor": 7,
     "votesAgainst": 2,
     "date": "January 21, 2025",
     "opinionBy": "Per Curiam",
-    "opinionType": "Vacated and Remanded",
+    "opinionType": "Vacated",
     "concurringOpinions": [
       {
         "justice": "Alito",
@@ -2894,36 +2152,14 @@
     "dissentingOpinions": [
       {
         "justice": "Thomas",
-        "joinedBy": [
-          "Gorsuch"
-        ]
+        "joinedBy": ["Gorsuch"]
       }
     ],
-    "majorityJustices": [
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett",
-      "Jackson"
-    ],
-    "concurringJustices": [
-      "Alito"
-    ],
-    "dissentingJustices": [
-      "Thomas",
-      "Gorsuch"
-    ],
+    "majorityJustices": ["Roberts", "Sotomayor", "Kagan", "Kavanaugh", "Barrett", "Jackson"],
+    "concurringJustices": ["Alito"],
+    "dissentingJustices": ["Thomas", "Gorsuch"],
     "totalMajority": 7,
     "totalDissenting": 2,
-    "justicesFor": [
-      "Roberts",
-      "Sotomayor",
-      "Kagan",
-      "Kavanaugh",
-      "Barrett",
-      "Jackson",
-      "Alito"
-    ]
+    "justicesFor": ["Roberts", "Sotomayor", "Kagan", "Kavanaugh", "Barrett", "Jackson", "Alito"]
   }
 ]
